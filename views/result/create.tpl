@@ -1,0 +1,1 @@
+/Users/wumx/go/src/coordinate-crossdomain/views/result/create.tpl
