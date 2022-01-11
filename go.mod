@@ -9,4 +9,5 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/satori/go.uuid v1.2.0
 	github.com/smartystreets/goconvey v1.6.4
+	github.com/xuperchain/xuper-sdk-go/v2 v2.0.0
 )

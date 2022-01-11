@@ -1,1 +1,1 @@
-# djangospider
+# beego + xuperchain
